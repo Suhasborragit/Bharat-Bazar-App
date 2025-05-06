@@ -1,5 +1,7 @@
-                                                                                    Bharat Bazaar – Simple E-Commerce Frontend
-                                                                            *********===========================================**********
+Bharat Bazaar – Simple E-Commerce Frontend
+===========================================
+
+
 Bharat Bazaar is a responsive and minimalistic e-commerce frontend web application developed using HTML, CSS, and JavaScript. It simulates an online shopping experience by fetching product data from the public API https://dummyjson.com/products. Users can explore products by category, add items to a cart, and see real-time updates to the cart count.
 
 Features:
@@ -53,7 +55,7 @@ CSS3 (Flexbox and Grid)
 JavaScript (Fetch API, DOM manipulation, localStorage)
 
 
-if you want to see how the excatly the site loojs like:
+if you want to see how the excatly the site looks like:
 --------------------------------------------------------
 
 https://suhas-first-ecommerce-site.netlify.app
